@@ -17,3 +17,4 @@ disable `electric-indent-mode` by pressing `M-x electric-indent-mode RET`
 - [ ] paste
 - [ ] edit lines (maybe not)
 - [ ] remove parts of lines (maybe not)
+- [ ] use vim commands specified in the file it reads from
