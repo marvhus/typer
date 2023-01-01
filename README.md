@@ -8,12 +8,12 @@ install `evil` mode and set it up
 disable `electric-indent-mode` by pressing `M-x electric-indent-mode RET`  
 
 # Todo
-[x] - Go to lines
-[x] - Add lines
-[x] - Remove lines
-[x] - append at end of lines
-[x] - insert at start of lines
-[ ] - coppy lines
-[ ] - paste
-[ ] - edit lines (maybe not)
-[ ] - remove parts of lines (maybe not)
+- [x] Go to lines
+- [x] Add lines
+- [x] Remove lines
+- [x] append at end of lines
+- [x] insert at start of lines
+- [ ] coppy lines
+- [ ] paste
+- [ ] edit lines (maybe not)
+- [ ] remove parts of lines (maybe not)
