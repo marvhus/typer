@@ -1,0 +1,41 @@
++int main(int argc, char **argv)
++{
++    printf("Hello, World");
++}
+----
++#include <iostream>
+@1
+----
+@1
+----
+@7
++int add(int a, int b)
++{
++    return a + b;
++}
+----
+@3
+) // Entrypoint
+) // test 
+----
+@8
+(/* Add two numbers */ 
+(/* test*/ 
+----
+@12
++void test()
++{
++    char* msg = "Hello, World!";
++    printf("1, %s\n", msg);
++    printf("2, %s\n", msg);
++    printf("3, %s\n", msg);
++}
+----
+@15
+) // Some Text
+) // Print 1
+) // Print 2
+) // Print 3
+----
+@19
+(/* test */ 
