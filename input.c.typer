@@ -3,7 +3,7 @@
 +    printf("Hello, World");
 +}
 ----
-+#include <iostream>
++#include <stdio.h>
 @1
 ----
 @1

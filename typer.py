@@ -2,7 +2,7 @@
 
 from pynput.keyboard import Key, Controller
 #import keyboard
-from time import sleep 
+from time import sleep
 from sys import argv
 
 controller = Controller()

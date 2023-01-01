@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 
 int main(int argc, char **argv) // Entrypoint
 { // test 
@@ -17,3 +17,4 @@ void test()
     printf("2, %s\n", msg); // Print 2
     printf("3, %s\n", msg); // Print 3
 /* test */ }
+
